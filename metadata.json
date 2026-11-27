@@ -1,0 +1,6 @@
+{
+  "name": "Terax-C Terminal IDE",
+  "description": "Production-grade terminal IDE powered by C TUI frontend, Zig system core, and Odin computation modules.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
